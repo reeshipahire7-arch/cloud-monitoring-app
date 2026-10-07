@@ -16,7 +16,7 @@ def home():
         </head>
         <body>
             <h1>Cloud Monitoring Dashboard</h1>
-            <h2>Application Status: RAND ✅</h2>
+            <h2>Application Status: Running ✅</h2>
             <p>Hostname: {hostname}</p>
             <p>Platform: {platform.system()}</p>
             <p>Environment: AWS EC2 + Docker</p>
